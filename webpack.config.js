@@ -30,7 +30,6 @@ module.exports = {
         // global app config object
         config: JSON.stringify({
             apiUrl: 'https://ufp-library.herokuapp.com/api/v1'
-            //apiUrl: 'http://localhost/api/v1'
         })
     }
 }
